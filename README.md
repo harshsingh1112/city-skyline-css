@@ -12,7 +12,7 @@ This is a simple web-based city skyline using HTML and CSS. The project demonstr
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/city-skyline.git
+git clone https://github.com/harshsingh1112/city-skyline-css.git
 ```
 2. Open the index.html file in your browser.
 
